@@ -4,9 +4,9 @@
 - bullet2
 
  > this is qoute
-''' python
+ ``` python
  print("Hello World")
-'''
+```
 number 1
 > number 2
 >
